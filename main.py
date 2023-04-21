@@ -10,7 +10,7 @@
 #=====================================================================
 #sys and core
 import sys
-sys.path.insert(0, "../")
+#sys.path.insert(0, "../")
 from core import *
 #config
 import config as c
